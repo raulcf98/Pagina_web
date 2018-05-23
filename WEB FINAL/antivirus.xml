@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="antivirus.xslt"?>
+<catalogo>
+	<antivirus>
+		<nombre>Avast</nombre>
+		<descripcion>Gratis para Siempre - Seguridad para PC Fácil y Rápida</descripcion>
+		<icono>.\av01.jpg</icono>
+	</antivirus>
+	<antivirus>
+		<nombre>Norton</nombre>
+		<descripcion>Eliminación y Detección de Virus, Malware, Spyware y Amenazas Online. Cómprelo.</descripcion>
+		<icono>.\no01.jpeg</icono>
+	</antivirus>
+	<antivirus>
+		<nombre>McAfee</nombre>
+		<descripcion>Protección de identidad · Antivirus en tiempo real · Antivirus para tabletas.</descripcion>
+		<icono>mc01.jpg</icono>
+	</antivirus>
+</catalogo>
